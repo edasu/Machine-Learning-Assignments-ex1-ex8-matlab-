@@ -7,4 +7,5 @@
 <br><b>Ex4</b> - Neural Networks implementation for Digit Recognition
 <br><b>Ex5</b> - Regularized Linear Regression, Polynomial Regression 
 <br><b>Ex6 </b>- SVM (Kernel implementation) for Spam Classification
+<br><b>Ex7</b> - K Clustering and Principal Component Analysis
 <br><b>Ex8</b> - Recommender System (Collaborative Filtering) and Anomaly Detection
